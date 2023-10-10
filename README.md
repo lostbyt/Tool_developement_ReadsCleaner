@@ -10,8 +10,8 @@ This project aims to enhance the quality of life for VFX artists in their daily 
 As a compositor, you have to manage a lot of differents external ressource to work with. This tool allows the user
 to organize all his imported files in Nuke by differents features like name, frame ranges, ascending sort and descending sort.
 
-**Developer:** Emmanuel Moulun
-**Studio:** Budos
+**Developer:** Emmanuel Moulun<br>
+**Studio:** Budos<br>
 **Demo:** https://vimeo.com/858286824
 
 ![Image](https://github.com/lostbyt/Tool_developement_ReadsCleaner/blob/main/sortFileName.jpg)
