@@ -21,7 +21,7 @@ This project seeks to improve the quality of life for VFX artists in their daily
 
 
 ### Features:
--Sort Reads nodes by name of frame range in descending or ascending.
+-Sort Reads nodes by name or frame range in descending or ascending.
 
 ### Technologie:
 Python V3 with Nuke Python API
