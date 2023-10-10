@@ -1,6 +1,7 @@
 # Tool_developement_ReadsCleaner
 
-![Image](https://github.com/lostbyt/Tool_development_AutoBeauty/blob/main/capture01.PNG)
+![Image](https://github.com/lostbyt/Tool_developement_ReadsCleaner/blob/main/Capture_node.PNG
+)
 
 
 
@@ -13,7 +14,7 @@ to organize all his imported files in Nuke by differents features like name, fra
 **Studio:** Budos
 **Demo:** https://vimeo.com/858286824
 
-![Image](https://github.com/lostbyt/Tool_development_AutoBeauty/blob/main/mindMap.jpg)
+![Image](https://github.com/lostbyt/Tool_developement_ReadsCleaner/blob/main/sortFileName.jpg)
 
 
 ##### Sort type:
@@ -25,5 +26,5 @@ to organize all his imported files in Nuke by differents features like name, fra
 ### Final product
 This tool can save a lot of time at the end of the day in your micro gestion of your nuke script.
 
-![Image](https://github.com/lostbyt/Tool_development_AutoBeauty/blob/main/autoBeauty_denoise.jpg)
+![Image](https://github.com/lostbyt/Tool_developement_ReadsCleaner/blob/main/sortFileName.jpg)
 
